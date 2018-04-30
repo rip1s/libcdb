@@ -106,5 +106,5 @@ FUNCTIONS
             search_libc(('system','0x90'))
             search_libc(('system',0x90))
         :param condition:
-        :return: A LIBC object
+        :return: A list of LIBC object
 ```
